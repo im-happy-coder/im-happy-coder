@@ -1,6 +1,12 @@
 ### Hellow Taein World 👋
+I'm a web application developer and I'm currently working in a DevOps environment. 💫
 
-myskills
+I like to develop while coding every day. 🌐
+
+### 💨 Skills
+<img src="https://img.shields.io/badge/java-#6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+
+### 💥 Tools
 
 <!--
 **im-happy-coder/im-happy-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
