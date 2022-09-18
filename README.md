@@ -4,9 +4,14 @@ I'm a web application developer and I'm currently working in a DevOps environmen
 I like to develop while coding every day. 🌐
 
 ### 💨 Skills
-<img src="https://img.shields.io/badge/java-#6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 
 ### 💥 Tools
+
+
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 
 <!--
 **im-happy-coder/im-happy-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
