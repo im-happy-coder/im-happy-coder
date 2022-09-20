@@ -3,7 +3,7 @@ I'm a web application developer and I'm currently working in a DevOps environmen
 
 I like to develop while coding every day. 🌐
 
-Im Happy Every Day :)
+I'm Happy Every Day :)
 
 ### 💨 Skills
 
