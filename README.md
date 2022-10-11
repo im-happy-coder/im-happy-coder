@@ -7,7 +7,7 @@ I'm Happy Every Day :)
 
 Happy.. Happy..
 
-Dream..is come
+헤헤..
 
 
 ### 💨 Skills
