@@ -6,8 +6,6 @@ I like to develop while coding every day. 🌐
 I'm Happy Every Day :)
 
 Happy.. Happy..
-...
-ㅎ
 
 ### 💨 Skills
 
