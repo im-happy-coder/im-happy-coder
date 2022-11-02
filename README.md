@@ -7,8 +7,6 @@ I'm Happy Every Day :)
 
 Happy.. Happy..
 
-ah..run!!..run!!!!!!
-
 ### 💨 Skills
 
 
