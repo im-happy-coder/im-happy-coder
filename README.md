@@ -7,7 +7,11 @@ I'm Happy Every Day :)
 
 Happy.. Happy..
 
-공부
+
+Goal
+
+
+
 
 ### 💨 Skills
 
