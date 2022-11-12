@@ -8,8 +8,7 @@ I'm Happy Every Day :)
 Happy.. Happy..
 
 
-Goal
-네카쿠라배당토몰두센야...ㄱ ㅏ보자!!!
+
 
 ㅎㅎ
 
