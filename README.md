@@ -10,8 +10,6 @@ Happy.. Happy..
 
 
 
-ㅎㅎ
-
 
 ### 💨 Skills
 
