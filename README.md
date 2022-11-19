@@ -8,8 +8,6 @@ I'm Happy Every Day :)
 Happy.. Happy..
 
 
-능이 할수있다!!
-
 
 ### 💨 Skills
 
